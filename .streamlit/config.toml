@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#2F9E7B"
+backgroundColor = "#F8F5EE"
+secondaryBackgroundColor = "#F1ECE2"
+textColor = "#1E2235"
+font = "'DM Sans', sans-serif"
+headingFont = "'DM Sans', sans-serif"
+codeFont = "'DM Mono', monospace"
+borderColor = "#ECE6DA"
